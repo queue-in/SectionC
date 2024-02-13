@@ -1,1 +1,7 @@
-
+    #section C
+         ANIMATED VILLAGE
+         GROUP MEMEBERS
+    NAME                ID
+    KALKIDAN DESALEGN   0693/13
+    KALKIDAN KIROS      0697/13
+    MERON TEKLEWEYNI    0839/13
